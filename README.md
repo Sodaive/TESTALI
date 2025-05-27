@@ -1,4 +1,4 @@
-# THIS IS MY FIRS GIT PROJECT
+# THIS IS MY FIRST GIT PROJECT
 
 
 ### Thank you for visiting my TEST progect
